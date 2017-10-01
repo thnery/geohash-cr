@@ -1,0 +1,11 @@
+name: geohash-cr
+version: 0.1.0
+
+authors:
+  - Luiz Godoy <luizpaulogodoy@gmail.com>
+  - Henrique Menezes <hamsalmeida@gmail.com>
+  - Tácio Nery <tacionery@gmail.com>
+
+crystal: 0.23.1
+
+license: MIT
