@@ -1,10 +1,6 @@
 require "./spec_helper"
 
 describe GeohashCr::Proximity do
-  it "works" do
-    true.should eq(true)
-  end
-
   it "ensure in circle" do
     GeohashCr::Proximity.in_circle_check(12, 77, 12.1, 77, 100).should eq(true)
   end
